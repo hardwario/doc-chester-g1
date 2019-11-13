@@ -1,10 +1,10 @@
-#####################
-CHESTER Documentation
-#####################
+#################
+CHESTER Datasheet
+#################
 
 .. important::
 
-   In this section, you will find a technical documentation for CHESTER. In case, you are searching for the product homepage, click on this link: **HARDWARIO - CHESTER**.
+   In this section, you will find an online datasheet for the **HARDWARIO** product **CHESTER**. In case, you are searching for the product homepage, click on `this link <https://www.hardwario.com/chester/>`_.
 
 .. toctree::
    :caption: Contents:
@@ -12,5 +12,8 @@ CHESTER Documentation
    :maxdepth: 2
 
    overview
+   parameters
    installation
+   backend
    commands
+   upgrade
