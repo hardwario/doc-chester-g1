@@ -20,17 +20,24 @@ Applications
 ************
 
 * Industry 4.0:
+
   * Telemetry from Modbus sensors
   * Predictive maintanance
+
 * Agriculture:
+
   * Soil moisture control
   * Rainfall measurement
   * Ammonia sensing in live stocks
+
 * Smart city:
+
   * Air quality monitoring
   * Heat pipe auditing
   * Water quality management
+
 * Smart metering:
+
   * Water/gas/electricity pulse counter
 
 
@@ -55,15 +62,20 @@ Optional Features
 *****************
 
 * NB-IoT connectivity:
+
   * NB-IoT modem
   * Antenna connected via u.FL connector
   * Onboard SIM chip or micro-SIM holder
+
 * LoRaWAN connectivity:
+
   * LoRaWAN modem
   * Antenna connected via u.FL connector
+
 * GNSS module (GPS, Galileo, GLONASS, BeiDou)
 * Onboard temperature/humidity sensor
 * Expansion modules:
+
   * CHESTER-X1: 1-Wire interface
   * CHESTER-X2: UART interface
   * CHESTER-X3: RS-485 interface
