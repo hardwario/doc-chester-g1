@@ -12,7 +12,7 @@ The device features **Bluetooth Low Energy** (BLE) connectivity for communicatio
 
 Optionally, the sensor can carry on-board satellite positioning module. Also, it is extensible with various communication interfaces - e.g. **RS-485** and **1-Wire** bus, simple analog sensors, pulse counters, etc.
 
-CHESTER can be mounted to an object using screws or fastened to a pole using a cable tie. The product can be customized to customer's needs including logo UV-printing. It comes in two basic color variants - white (default option) and choral gray.
+CHESTER can be mounted to an object using screws or fastened to a pole using a cable tie. The product can be customized to customer's needs including **logo UV-printing**. It comes in two basic color variants - white (default option) and choral gray.
 
 
 ************

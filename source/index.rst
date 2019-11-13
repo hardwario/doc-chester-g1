@@ -2,18 +2,15 @@
 CHESTER Documentation
 #####################
 
+.. important:: Important
+
+   In this section, you will find a technical documentation for CHESTER. In case, you are searching for the product homepage, click on this link: **HARDWARIO - CHESTER**.
+
 .. toctree::
    :caption: Contents:
    :numbered:
    :maxdepth: 2
 
    overview
-   co2-sensor-calibration
-   at-commands
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   installation
+   commands
