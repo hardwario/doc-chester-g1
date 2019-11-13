@@ -2,7 +2,7 @@
 CHESTER Documentation
 #####################
 
-.. important:: Important
+.. important::
 
    In this section, you will find a technical documentation for CHESTER. In case, you are searching for the product homepage, click on this link: **HARDWARIO - CHESTER**.
 

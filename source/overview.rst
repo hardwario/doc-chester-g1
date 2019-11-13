@@ -62,11 +62,12 @@ Optional Features
 *****************
 
 * NB-IoT connectivity::
+
   * NB-IoT modem
   * Antenna connected via u.FL connector
   * Onboard SIM chip or micro-SIM holder
 
-* LoRaWAN connectivity:
+* LoRaWAN connectivity::
 
   * LoRaWAN modem
   * Antenna connected via u.FL connector
@@ -75,8 +76,8 @@ Optional Features
 * Onboard temperature/humidity sensor
 * Expansion modules:
 
-  * CHESTER-X1: 1-Wire interface
-  * CHESTER-X2: UART interface
-  * CHESTER-X3: RS-485 interface
-  * CHESTER-X4: DC/DC power supply
-  * CHESTER-X5: External analog input
+   * CHESTER-X1: 1-Wire interface
+   * CHESTER-X2: UART interface
+   * CHESTER-X3: RS-485 interface
+   * CHESTER-X4: DC/DC power supply
+   * CHESTER-X5: External analog input
