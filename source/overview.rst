@@ -46,7 +46,7 @@ Basic Features
 **************
 
 * Operating temperature range: -40 °C to +85 °C
-* Dimensions 130(l) x 175(w) x 45(h)
+* Dimensions 130(l) x 175(w) x 45(h) mm
 * Weatherproof IP67 enclosure
 * Lithium primary cell battery (LiSoCl2, 3.6 V)
 * Battery fuel gauge for the capacity estimation
@@ -61,8 +61,7 @@ Basic Features
 Optional Features
 *****************
 
-* NB-IoT connectivity:
-
+* NB-IoT connectivity::
   * NB-IoT modem
   * Antenna connected via u.FL connector
   * Onboard SIM chip or micro-SIM holder
