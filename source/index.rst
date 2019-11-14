@@ -14,6 +14,7 @@ CHESTER Datasheet
    overview
    parameters
    installation
+   expansion
    backend
    commands
    upgrade

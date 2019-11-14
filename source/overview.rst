@@ -27,6 +27,7 @@ Applications
 
   - Telemetry from Modbus sensors
   - Predictive maintenance
+  - Palette weight monitoring
 
 * Agriculture:
 
