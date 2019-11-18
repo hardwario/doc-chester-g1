@@ -329,6 +329,36 @@ AT$STATUS - Get full device status
 * ``VMVO``: Voltage monitor - voltage
 
 
+AT$REBOOT - Reboot device
+=========================
+
+:Format:
+
+``AT$REBOOT``
+
+:Example:
+
+::
+
+   Command:    AT$REBOOT
+   Response:   OK
+
+
+AT$RECONNECT - Reconnect to NB-IoT network
+==========================================
+
+:Format:
+
+``AT$RECONNECT``
+
+:Example:
+
+::
+
+   Command:    AT$RECONNECT
+   Response:   OK
+
+
 AT$DFU - Switch device to bootloader
 ====================================
 
