@@ -284,6 +284,7 @@ AT$STATUS - Get full device status
    Response:   $STATUS: "ACCX",0.815
                $STATUS: "ACCY",0.024
                $STATUS: "ACCZ",-0.987
+               $STATUS: "DUPT",168462
                $STATUS: "EHRH",48.9
                $STATUS: "EHTM",23.1
                $STATUS: "ETTM",22.5
@@ -304,6 +305,10 @@ AT$STATUS - Get full device status
 
 :Details:
 
+* ``DUPT``: Device uptime
+* ``ACCX``: Accelerometer - acceleration in X-axis
+* ``ACCY``: Accelerometer - acceleration in Y-axis
+* ``ACCZ``: Accelerometer - acceleration in Z-axis
 * ``EHRH``: External hygrometer - relative humidity
 * ``EHTM``: External hygrometer - temperature
 * ``ETTM``: External thermometer - temperature
@@ -320,6 +325,7 @@ AT$STATUS - Get full device status
 * ``PTTM``: Position tracker - last known UTC time
 * ``SSMO``: Soil sensor - moisture
 * ``SSTM``: Soil sensor - temperature
+* ``UPTM``: Device uptime
 * ``VMVO``: Voltage monitor - voltage
 
 
