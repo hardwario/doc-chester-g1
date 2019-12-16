@@ -250,6 +250,7 @@ AT$BLUETOOTH - Get full Bluetooth data
                $BLUETOOTH: "CLIENTS",1
                OK
 
+
 AT$NETWORK - Get full network data
 ==================================
 
