@@ -44,7 +44,7 @@ This module adds the 1-Wire interface.
 
 .. image:: _static/chester-x1.png
    :width: 300
-   :alt: Chester-X1
+   :alt: CHESTER-X1
 
 **********
 CHESTER-X2
@@ -86,7 +86,7 @@ This module adds the 3 V TTL UART interface.
 
 .. image:: _static/chester-x2.png
    :width: 300
-   :alt: Chester-X2
+   :alt: CHESTER-X2
 
 **********
 CHESTER-X3
@@ -113,7 +113,7 @@ This module adds the RS-485 interface.
 
 .. image:: _static/chester-x3.png
    :width: 300
-   :alt: Chester-X3
+   :alt: CHESTER-X3
 
 **********
 CHESTER-X4
@@ -145,7 +145,7 @@ The operating input voltage ranges from 4 VDC to 28 V DC.
 
 .. image:: _static/chester-x4.png
    :width: 300
-   :alt: Chester-X4
+   :alt: CHESTER-X4
 
 **********
 CHESTER-X5
@@ -170,4 +170,4 @@ This module adds the ability to measure external voltage in the range from -30 V
 
 .. image:: _static/chester-x5.png
    :width: 300
-   :alt: Chester-X5
+   :alt: CHESTER-X5

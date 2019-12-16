@@ -8,6 +8,11 @@ Overview
 
    NB-IoT and LoRaWAN fall in the category of LPWAN technologies (Low Power Wide Area Network). These networks offer long communication distance, low data bandwidth, and low integration cost in the devices.
 
+.. image:: _static/chester.png
+   :align: center
+   :width: 500
+   :alt: CHESTER mainboard
+
 The gateway is suitable for both indoor and outdoor use thanks to its advanced **weatherproof enclosure** (IP67 rating). All the integrated components operate in a wide temperature range and the device can be used in harsh environmental conditions.
 
 CHESTER is powered from a **high-capacity Lithium battery**. The advanced low-power optimization techniques enable the battery lifespan in the field of **up to 5 years**. The battery state (remaining capacity) is accurately reported via the network. Optionally, it can be powered from the external DC power supply (up to 28 V).
