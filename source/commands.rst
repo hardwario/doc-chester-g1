@@ -168,7 +168,8 @@ AT+CLAC - List all available AT commands
    Response:   ...
                OK
 
-TODO: Provide full example listing
+..
+  TODO: Provide full example listing
 
 
 ******************
@@ -266,7 +267,8 @@ AT$NETWORK - Get full network data
                $NETWORK: "IPAD","10.0.0.1"
                OK
 
-TODO: Insert the real IMEI (the one above is a random number)
+..
+  TODO: Insert the real IMEI (the one above is a random number)
 
 
 AT$STATUS - Get full device status

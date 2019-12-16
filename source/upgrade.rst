@@ -11,10 +11,12 @@ There are 2 ways to upgrade firmware in CHESTER:
 Upgrade via BLE
 ***************
 
-TODO
+..
+  TODO
 
 ******************
 Upgrade via J-Link
 ******************
 
-TODO
+..
+  TODO
