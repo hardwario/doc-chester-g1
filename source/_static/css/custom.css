@@ -1,3 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap&subset=latin-ext');
+
+body{
+    font-family: 'Roboto', sans-serif!important;
+    color: #252532;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif!important;
+    color: #252532;
+}
 .rst-content .section ol p, .rst-content .section ul p {
     margin-bottom: 0;
+}
+.wy-side-nav-search {
+background-color: #E30427;
+}
+
+.wy-side-nav-search>a{
+    content:url('../hw-logo-white.svg');
+    max-width: 100%;
+}
+.wy-side-nav-search>a:hover{
+    background-color: #E30427;
+}
+.wy-nav-side {
+background: #252532;
+}
+.wy-side-nav-search input[type=text]{
+    border-color: #b1031e;
+}
+.caption-text{
+    color: white;
 }
