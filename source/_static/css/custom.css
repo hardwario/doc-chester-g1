@@ -12,22 +12,30 @@ h1,h2,h3,h4,h5,h6{
     margin-bottom: 0;
 }
 .wy-side-nav-search {
-background-color: #E30427;
+background-color: #252532;
+margin: 0px;
+padding: 0 20px;
 }
 
 .wy-side-nav-search>a{
     content:url('../hw-logo-white.svg');
     max-width: 100%;
+    margin: 0!important;
 }
 .wy-side-nav-search>a:hover{
-    background-color: #E30427;
+    background-color: #252532;
 }
 .wy-nav-side {
 background: #252532;
 }
 .wy-side-nav-search input[type=text]{
-    border-color: #b1031e;
+    border-color: #666;
 }
 .caption-text{
     color: white;
+}
+
+.wy-side-nav-search .version{
+    color: #666;
+    display: none;
 }

@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'CHESTER'
-copyright = '2019, HARDWARIO s.r.o.'
-author = 'HARDWARIO s.r.o.'
+copyright = '2020, HARDWARIO'
+author = 'HARDWARIO'
 
 
 # -- General configuration ---------------------------------------------------
