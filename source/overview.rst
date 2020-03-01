@@ -88,10 +88,14 @@ Optional Features
 * Onboard temperature/humidity sensor
 * Expansion modules:
 
+  - CHESTER-X0A: I2C interface
+  - CHESTER-X0B: Ultrasonic sensor interface
+  - CHESTER-X0C: 4x analog/digital input interface
   - CHESTER-X1: 1-Wire interface
-  - CHESTER-X2: UART interface
-  - CHESTER-X3: RS-485 interface
-  - CHESTER-X4: DC/DC power supply
+  - CHESTER-X2A: UART interface
+  - CHESTER-X2B: RS-485 interface
+  - CHESTER-X3: Pt1000 interface
+  - CHESTER-X4: DC/DC power supply, current loop input, 1-Wire interface
   - CHESTER-X5: External analog input
 
 .. note::
