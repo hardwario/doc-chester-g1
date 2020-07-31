@@ -17,6 +17,7 @@ CHESTER Datasheet
    backend
    commands
    upgrade
+   integrations
 
 ..
    TODO return back installation
