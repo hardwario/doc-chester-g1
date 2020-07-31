@@ -10,10 +10,15 @@ Blynk IoT Platform
 
 Blynk makes easy to build mobile IoT app. Follow these simple steps to integrate CHESTER with Blynk via HARDWARIO Cloud:
 
-1. Download Blynk from `App Store`_ or `Google Play`_ and create new project.
-2. Add widgets to the application and set unique virtual pins for every metric you want to add.
+1. Download Blynk App from `App Store`_ or `Google Play`_ and create new project.
+2. Add widgets to the application and assing virtual PINs for every metric you want to visualise.
 3. Go to HARDWARIO Cloud and create or select the group that your device is part of.
-4. Now you have to create a unique call back for all your virutal pins. Use these instructions:
+
+.. note::
+
+   The Blynk API do not support sending multiple values for different PINs in one callback. 
+
+4. Now you have to create a unique callback for all your virtual PINs. Use these instructions:
 
   a. Method 
   
@@ -27,7 +32,7 @@ Blynk makes easy to build mobile IoT app. Follow these simple steps to integrate
 
     http://blynk-cloud.com/<auth_token>/update/V<number>
 
-  Replace <auth_token> by your generated token from Blynk and <number> with number of your virtual pin.
+  Replace <auth_token> by your generated token from Blynk and <number> with number of your virtual PIN.
 
   c. Payload
 
