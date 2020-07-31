@@ -91,7 +91,6 @@ Now we are going to make an example with CHESTER Clime.
   and URL address is ``http://blynk-cloud.com/<AUTH TOKEN>/update/V0``
 
   .. image:: _static/integrations/blynk/hardwario-cloud-callback-1.png
-      :scale: 51 %
 
   .. note::
       For CHESTER dashboard you revieved **AUTH TOKEN** to account email.
