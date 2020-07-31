@@ -37,7 +37,7 @@ Blynk makes easy to build mobile IoT app. Follow these simple steps to integrate
       <<value>>
     ]
 
-  Instead of <<value>> use extracted value from original JSON message. For example: http://docs.jsonata.org/simple. 
+  Instead of <<value>> use extracted value from original JSON message. For example: 
 
   ::
 
