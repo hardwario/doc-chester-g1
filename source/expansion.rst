@@ -8,13 +8,13 @@ CHESTER is an extensible device throughout the expansion modules (up to two) ins
 CHESTER-X0A
 ***********
 
-This module adds the possibility to connect external I2C peripherals. For instance temperature/humidity sensor.
+This module adds the possibility to connect external I2C peripherals. For instance, temperature/humidity sensor.
 
 ***********
 CHESTER-X0B
 ***********
 
-This module adds the possibility to connect external ultrasonic sensor which can be used for water level monitoring.
+This module adds the possibility to connect an external ultrasonic sensor which can be used for water level monitoring.
 
 ***********
 CHESTER-X0C

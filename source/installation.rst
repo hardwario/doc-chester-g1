@@ -2,5 +2,3 @@
 Device Installation
 ###################
 
-..
-  TODO
