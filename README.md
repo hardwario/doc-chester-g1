@@ -40,7 +40,7 @@ You can also run the local web server that watches source files for changes and 
 
     ./docker.sh serve
 
-Once started, the documentation is available at: http://localhost:5500/
+Once started, the documentation is available at: **http://localhost:5500/**
 
 If you want to clean the output (contents of the `build/` directory), just use:
 
@@ -53,9 +53,9 @@ The source files are located in the `source/` directory. Use an editor of your p
 
 We recommend **Visual Studio Code** with these extensions:
 
-* EditorConfig (to automatically follow `.editorconfig` file rules)
-* reStructuredText (syntax support and highlight for `.rst` files)
-* Grammarly (for spelling and grammar check)
+* **EditorConfig** (to automatically follow `.editorconfig` file rules)
+* **reStructuredText** (syntax support and highlight for `.rst` files)
+* **Grammarly** (for spelling and grammar check)
 
 Altogether with the `./docker.sh serve` mode, you can have editor and the live browser preview side-by-side.
 
